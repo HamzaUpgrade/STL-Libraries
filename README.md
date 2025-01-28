@@ -7,7 +7,7 @@ This repository contains a collection of custom implementations of various data 
 | `clsDynamicArray`    | A dynamic array implementation that automatically resizes itself as needed. | [clsDynamicArray](https://github.com/HamzaUpgrade/STL-Libraries/tree/main/MyDynamicArray) |
 | `clsMyStackArr`      | A stack implementation using a dynamic array as the underlying data structure. | [clsMyStackArr](https://github.com/HamzaUpgrade/STL-Libraries/tree/main/MyStackArr)   |
 | `clsMyQueueArr`      | A queue implementation using a dynamic array as the underlying data structure. | [clsMyQueueArr](https://github.com/HamzaUpgrade/STL-Libraries/tree/main/MyQueueArr)   |
-| `clsMyQueue`         | A queue implementation using a doubly linked list as the underlying data structure. | [clsMyQueue]([https://github.com/HamzaUpgrade/STL-Libraries/tree/main/MyQueue)         |
+| `clsMyQueue`         | A queue implementation using a doubly linked list as the underlying data structure. | [clsMyQueue](https://github.com/HamzaUpgrade/STL-Libraries/tree/main/MyQueue)         |
 | `clsMyStack`         | A stack implementation using a queue (based on a doubly linked list) as the underlying data structure. | [clsMyStack](https://github.com/HamzaUpgrade/STL-Libraries/tree/main/MyStack)         |
 | `clsSingleLinkedList`| A single linked list implementation with basic operations like insertion, deletion, and traversal. | [clsSingleLinkedList](https://github.com/HamzaUpgrade/STL-Libraries/tree/main/MySignleLinkedList) |
 | `clsDblLinkedList`   | A doubly linked list implementation with operations like insertion, deletion, and reverse traversal. | [clsDblLinkedList](https://github.com/HamzaUpgrade/STL-Libraries/tree/main/MyDoubleLinkedList) |
